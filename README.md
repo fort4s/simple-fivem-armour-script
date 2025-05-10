@@ -1,10 +1,10 @@
-HOW TO INSTALL
-install all of the files 
-create a new folder 
-put all of 4 files there 
-go to your server.cfg and 
-ensure [file name]
+# armour command
 
-HOW TO USE 
-after installing open config.lua and 
-edit to your liking
+A simple FiveM script that admins can give players armour trough a command.
+
+## 📦 Installation
+
+1. Download this repository.
+2. Extract the folder.
+3. Rename the folder to `armour` (or any name you prefer).
+4. Place the folder inside your server's `resources` directory:
